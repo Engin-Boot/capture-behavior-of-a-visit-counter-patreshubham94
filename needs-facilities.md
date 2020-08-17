@@ -12,7 +12,7 @@
 
   Given: Digital board in front of ward displays siting capacity.
   
-  When: The number of visitors or patitents exceeds,
+  When: The number of visitors or patients exceeds,
   the number displayed on digital board.
   
   Then: Alert the staff manager about it.
