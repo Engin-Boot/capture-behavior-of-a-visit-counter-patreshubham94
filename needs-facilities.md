@@ -1,6 +1,6 @@
 # Visit-counter for a Facilities Manager
 
-Scenario: Report visitor trends during a week of operation
+## Scenario: Report visitor trends during a week of operation
 
   Given: Visitors visit the hospital throughout the week.
   
@@ -8,7 +8,7 @@ Scenario: Report visitor trends during a week of operation
   
   Then: Display daily trend of visitors count.
 
-Scenario: Alert when seating capacity is full
+## Scenario: Alert when seating capacity is full
 
   Given: Digital board in front of ward displays siting capacity.
   
