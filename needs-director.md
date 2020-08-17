@@ -1,13 +1,21 @@
 # Visit-counter for a Director
 
-Scenario: Show patient visits during working days and holidays
+## Scenario: Show patient visits during working days and holidays
 
-  Given
-  When
-  Then
+  Given: Patients visits the hospital.
+  
+  When: Hospital staff needs visit information of patients.
+  
+  Then: Display them visit information of patients saperately.
+  In one table show visit information of working days.
+  And in other table show visit information of holidays.
 
-Scenario: Compute parking slots to reserve for visiting specialists
+## Scenario: Compute parking slots to reserve for visiting specialists
 
-  Given
-  When
-  Then
+  Given: Hospital have parking slot.
+  And specialist doctors visit the hospital.
+  
+  When: specialist doctors visit the hospital for some emergency.
+  
+  Then: Find and compute the empty parking slots.
+  And reserve then for specialist.
