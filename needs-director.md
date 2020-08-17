@@ -6,7 +6,7 @@
   
   When: Hospital staff needs visit information of patients.
   
-  Then: Display them visit information of patients saperately.
+  Then: Display them visit information of patients separately.
   In one table show visit information of working days.
   And in other table show visit information of holidays.
 
