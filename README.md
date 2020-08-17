@@ -1,7 +1,7 @@
 # Visit-counter Behavior
 
 This project works out the features of a
-visit-counting software, called the 'Visit-counter'.
+visit-counting software called the 'Visit-counter'.
 
 Here's the context in which the Visit-counter works:
 
